@@ -6,4 +6,6 @@ please import the sidequestdb.sql into xampp.
 
 tangina mo shiin
 
-jastin test
+jastin test 
+
+pls san gaumana 
