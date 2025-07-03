@@ -1,6 +1,9 @@
 # SideQuest
 A PHP/HTML/CSS Group Project
 
+Bogart was here oralcee ampota
 please import the sidequestdb.sql into xampp.
 
-jastin was hir
+tangina mo shiin
+
+jastin test
